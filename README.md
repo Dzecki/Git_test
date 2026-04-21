@@ -1,2 +1,3 @@
 # Git_test
-test gita
+
+## Opis projektu
